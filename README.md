@@ -124,8 +124,8 @@ public void onDataReceived(ProtocolHeader header, InputStream inputStream, Outpu
 
 We can setup an arb `TransportMessage` and call `forward` with it...
 
-```
-/* 1401 */   protected CompletableFuture<Void> forward(String targetAddress, TransportMessage msg) { return this.receiveHandler.handle(targetAddress, msg); }
+```java
+protected CompletableFuture<Void> forward(String targetAddress, TransportMessage msg) { return this.receiveHandler.handle(targetAddress, msg); }
 ```
 
 The `receiveHandler` will be the `ConnectionWatcher`:
