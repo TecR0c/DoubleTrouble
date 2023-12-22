@@ -444,4 +444,4 @@ java DoubleTrouble <target> <connectback:port> [outgoing ip]
 3. **Inductive Automation Advisory**: [Technical Advisory](https://support.inductiveautomation.com/hc/en-us/articles/18333051904653--Tech-Advisory-Regarding-the-Security-Advisories-Published-by-the-ZDI-on-8-August-2023)
 
 ### Discovery Credits
-- Rocco Calvi (@TecR0c) and Steven Seeley (mr_me) of the Incite Team.
+- Rocco Calvi ([@TecR0c](https://twitter.com/TecR0c)) and Steven Seeley ([@mr_me](https://twitter.com/steventseeley)) of the Incite Team.
